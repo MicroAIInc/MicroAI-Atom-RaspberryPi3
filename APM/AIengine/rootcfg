@@ -1,0 +1,22 @@
+0register table name,reg
+1local register table for datasource,localreg
+2self IP,127.0.0.1
+3hDim,10
+4tDim,100
+5ifBuildModel,0
+6ifExecuteModel,1
+7ifSaveRawData,0
+8ifRemoveOldModelFile,1
+9timeStampType,1
+10ifPermitReset,0
+11resetDB,127.0.0.1:6379
+12ifVerbose,0
+13ifDelOldLog,1
+14logFile,logA.csv
+15ifCalSleepTime,1
+16samplingTime,300
+17ifResetConn,0
+18ifCalcDet,1
+19dampingFactor,0.0001
+20ifNormalFeatures,1
+21connMode,1

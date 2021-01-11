@@ -1,0 +1,5 @@
+0register table name,reg
+1local register table for datasource,localreg
+2self IP,127.0.0.1
+3samplingTime,1000
+4verbose,1

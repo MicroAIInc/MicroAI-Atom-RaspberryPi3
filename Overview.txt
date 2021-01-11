@@ -1,0 +1,13 @@
+#version 1.0
+#author: OneTech
+#status: production
+
+# OneTech microAI SDK Overview
+
+##Welcome to the microAI SDK! The following should give you a good idea of how to navigate this directory.
+
+##Structure
+1. The SDK has two root sections: MicroAI Atom RPi EVK and SDK_Documents
+2. Within SDK_Documents there is documentation as well as multiple readme.txt files that explain the uses cases and setup details 
+3. The MicroAI Atom RPi EVK will houses APM and Security SDK files(these files will be everything that you will use in your technical development)
+

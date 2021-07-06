@@ -65,7 +65,7 @@ Before we begin with MicroAI Atom, we must first make some changes to your raspb
 1. Expand space on the pi
     * From a terminal `sudo raspi-config`
     * select `7 Advanced Options`
-    * select `A1 Expanding Spce`
+    * select `A1 Expanding Space`
     * `sudo reboot`
 2. Enable Wi-Fi
     * From a terminal `sudo raspi-config`
@@ -90,7 +90,7 @@ sudo apt-get install sense-hat
 sudo apt-get install redis-server
 sudo reboot
 pip3 install redis
-pip3 install -Iv bottle=0.12.17
+pip3 install -Iv bottle==0.12.17
 pip3 install -Iv tqdm==4.32.1
 ```
 It should be noted that bottle and tqdm are only required for the security project.

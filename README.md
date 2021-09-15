@@ -158,9 +158,9 @@ See  [Software Evaluation Licensing Agreement](MicroAI%20Atom%20Evaluation%20Lic
 
 Company: ONETech
 
-Website: www.onetech.ai
+Website: www.micro.ai
 
-Email: support@onetech.ai
+Email: support@micro.ai
 
 
 

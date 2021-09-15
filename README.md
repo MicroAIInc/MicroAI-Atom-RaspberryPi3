@@ -9,7 +9,7 @@
 <br />
 <p align="center">
   <a href="https://github.com/github_username/repo_name">
-    <img src="Images/Atom raspberrypi.png" alt="Logo" width="1000" height="495">
+    <img src="Images/atom-Raspberry.jpg" alt="Logo" width="1000" height="495">
   </a>
 
   <h3 align="center">MicroAI Atom for the Raspberry Pi</h3>
